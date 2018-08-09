@@ -5,6 +5,11 @@ public class Example1 {
         this.attr = attr;
     }
 
+    //modificando para teste no git
+    public void fazNada(){
+        int a;
+    }
+
     public String simpleMethod(){
         String stringReturn = null;
         if(attr < 10){
